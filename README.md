@@ -3,7 +3,7 @@
 为了显示效果近似，用到了网上某大神写的仿IOS ActionSheet稍加改动。
 
 这里为Android平台源码，插件和另一部分源码在另一个工程。
-[传送门]:http://git.oschina.net/lovewestwind/unityphotoplugins
+插件工程:http://git.oschina.net/lovewestwind/unityphotoplugins
 
 另一个工程里有demo项目和plugins源码和IOS源码，在Assets/Plugins/IOS/目录下。
 
